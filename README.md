@@ -16,3 +16,9 @@ ligne 20,21,22: l'utilisateur souhaite que son résultat soit affiché en boolé
 
 EXO 6: l'utlisateur à utiliser le nom des variables dans son concaténation et non les valeurs pour obtenir le nombre d'heure travailler au total.
 Lors de l'ajout de la ligne, une erreur s'et affichée car la variable "number_of_minutes_in_an_hour" n'avait aucune valeur. Il a fallut lui en donner une "60" pour obtenir un résultat
+
+EXO 7:
+a: gets.chomp permet à l'utilisateur de rentrer le nom de la variable qu'il souhaite ( Comme si c'était un formulaire qu'il remplissait)
+b: indique à l'utilisateur où il doit rentrer sa valeur
+c: Libre champs à l'utilisateur de mettre ce qu'il souhaite.
+
