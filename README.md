@@ -14,3 +14,5 @@ ligne 14: explication de la soustraction 5-7 de la ligne 11 via une concaténati
 ligne 16,18 : affirmation par un string
 ligne 20,21,22: l'utilisateur souhaite que son résultat soit affiché en booléens ( vrai ou faux) en faisant des test en concaténation
 
+EXO 6: l'utlisateur à utiliser le nom des variables dans son concaténation et non les valeurs pour obtenir le nombre d'heure travailler au total.
+Lors de l'ajout de la ligne, une erreur s'et affichée car la variable "number_of_minutes_in_an_hour" n'avait aucune valeur. Il a fallut lui en donner une "60" pour obtenir un résultat
