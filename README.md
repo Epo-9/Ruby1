@@ -1,3 +1,4 @@
+Eponine PAILLET /slack : Eponine Paillet Nathalie GREGO /slack : Nathalie GREGO
 EXO 3: lors du # dans la ligne 2, deux balises s'ouvrent pour créer un commentaire
 
 EXO 4: le texte ne se clone pas dans le terminal car la guillemet n'est pas fermé à la fin
